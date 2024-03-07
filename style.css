@@ -2,16 +2,16 @@
 
 @media (max-width: 1580px) {
     body {
-      background-color: green;
-      color: salmon;
+      background-color: white;
+      color: black;
     }
     .deskTopNavBar{
-        border: solid purple;
+       
         height: 10vh ;
         display: flex;
     }
     .heartBag{
-        border: solid violet;
+        
         display: flex;
         height: 6vh;
         margin-top: 1.5%;
@@ -22,13 +22,13 @@
         margin-left: 5%;
     }
     .Searchsize{
-        border: solid black;
+        
         height: 7vh;
         margin-top: 1.5%;
         
     }
     .QuickSearch{
-        border: solid silver;
+        
         width: 35%;
         display: flex;
         justify-content: space-between;
@@ -38,26 +38,26 @@
         
     }
     .Jordanimage{
-        border: solid orangered;
+        
         height: 10vh;
     }
     .desktopContainer{
-        border: solid red;
+       
         height: 6vh;
         display: flex;
     }
     .navBarCOntainer{
-        border: solid green;
+        
         height: 10vh;
         display: flex;
         display: none;
     }
     .logoContainer img{
-        border: solid yellow;
+        
         height: 10vh;
     }
     .icons{
-        border: solid blue;
+        
         margin-left: 40%;
         display: flex;
         justify-content: space-between;
@@ -68,12 +68,12 @@
         padding-top: 25%;
         }
     .JordanConverse{
-        border: solid gold;
+        
         height: 6vh;
         display: flex;
     }
     .desktopOptions{
-        border: solid salmon;
+        
         margin-left: 50%;
         display: flex;
         justify-content: space-between;
@@ -87,16 +87,16 @@
  
     @media (max-width: 980px) {
     body {
-      background-color: blue;
-      color: peru;
+      background-color: white;
+      color: black;
     }
     .deskTopNavBar{
-        border: solid purple;
+        
         height: 10vh ;
         display: flex;
     }
     .heartBag{
-        border: solid violet;
+        
         display: flex;
         height: 6vh;
         margin-top: 1.5%;
@@ -107,13 +107,13 @@
         margin-left: 5%;
     }
     .Searchsize{
-        border: solid black;
+        
         height: 7vh;
         margin-top: 1.5%;
         
     }
     .QuickSearch{
-        border: solid silver;
+       
         width: 35%;
         display: flex;
         justify-content: space-between;
@@ -123,26 +123,26 @@
         
     }
     .Jordanimage{
-        border: solid orangered;
+       
         height: 10vh;
     }
     .desktopContainer{
-        border: solid red;
+       
         height: 6vh;
         display: flex;
     }
     .navBarCOntainer{
-        border: solid green;
+        
         height: 10vh;
         display: flex;
         display: none;
     }
     .logoContainer img{
-        border: solid yellow;
+        
         height: 10vh;
     }
     .icons{
-        border: solid blue;
+        
         margin-left: 40%;
         display: flex;
         justify-content: space-between;
@@ -153,12 +153,12 @@
         padding-top: 25%;
         }
     .JordanConverse{
-        border: solid gold;
+        
         height: 6vh;
         display: flex;
     }
     .desktopOptions{
-        border: solid salmon;
+        
         margin-left: 50%;
         display: flex;
         justify-content: space-between;
@@ -171,17 +171,17 @@
 
     @media (max-width: 580px) {
         body {
-          background-color: black;
-          color: lemonchiffon;
+          background-color: white;
+          color: black;
         }
         .deskTopNavBar{
-            border: solid purple;
+            
             height: 10vh ;
             display: flex;
             display: none;
         }
         .heartBag{
-            border: solid violet;
+           
             display: flex;
             height: 6vh;
             margin-top: 1.5%;
@@ -194,14 +194,14 @@
             display: none;
         }
         .Searchsize{
-            border: solid black;
+           
             height: 7vh;
             margin-top: 1.5%;
             display: none;
             
         }
         .QuickSearch{
-            border: solid silver;
+           
             width: 35%;
             display: flex;
             justify-content: space-between;
@@ -211,25 +211,25 @@
             display: none;
         }
         .Jordanimage{
-            border: solid orangered;
+           
             height: 10vh;
             display: none;
         }
 
         .JordanConverse{
-            border: solid gold;
+           
             height: 6vh;
             display: flex;
             display: none;
         }
         .desktopContainer{
-            border: solid red;
+           
             height: 6vh;
             display: flex;
             display: none;
         }
         .desktopOptions{
-            border: solid salmon;
+           
             margin-left: 50%;
             display: flex;
             justify-content: space-between;
@@ -237,17 +237,17 @@
             display: none;
         }
         .navBarCOntainer{
-            border: solid green;
+           
             height: 10vh;
             display: flex;
             }
             .logoContainer img{
-                border: solid yellow;
+               
                 height: 10vh;
             }
             
             .icons{
-                border: solid blue;
+               
                 margin-left: 40%;
                 display: flex;
                 justify-content: space-between;
